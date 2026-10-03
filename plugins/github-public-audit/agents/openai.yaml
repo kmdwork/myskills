@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Public Audit"
+  short_description: "GitHub公開前に秘密情報・個人情報・履歴リスクを監査"
+  default_prompt: "Use $github-public-audit to audit this repository before making it public."

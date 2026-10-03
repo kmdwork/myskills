@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan from GitHub Issue"
+  short_description: "Analyze an issue and prepare a reviewable Draft PR plan"
+  default_prompt: "Use $plan-from-issue to analyze this GitHub Issue and create a planning-only Draft PR when safe."
