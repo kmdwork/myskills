@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Steward"
+  short_description: "要件と設計の意図を整理・継承し、変更時の整合性を確認"
+  default_prompt: "$design-steward を使って、このプロジェクトの要件と設計意図を分析してください。"
