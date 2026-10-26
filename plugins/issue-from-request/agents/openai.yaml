@@ -1,0 +1,4 @@
+interface:
+  display_name: "Issue from Request"
+  short_description: "要求を調査し、実装可能なGitHub Issueへ整理"
+  default_prompt: "$issue-from-request を使って、この変更要求を調査し、実装可能なGitHub Issue案に整理してください。"
